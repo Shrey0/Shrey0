@@ -26,21 +26,23 @@
 
 #### Email: jagadshrey001@gmail.com
 
-#### <h4>About Myself: </h4>
+#### <h4>About Myself: 
+Hey readers,
+
+I am a student developer experienced in C, C++, Java, JQuery and Python. I am learning to develop websities from <b>scratch</b>.
+</h4>
 
 # Education
 
 
- - <h4>College Name: GTU</h4>
+ - <h4>College Name: Gujarat Technological University</h4>
     
     <h4>Degree: Bachelor's In Computer Engineering </h4>
     
     <h4>From:2019-08</h4>
     
-    <h4>To: </h4>
+    <h4>To:2021-03</h4>
     
-    <h4>About College: </h4>
-
 # Work Experience
 
 <ul></ul>
@@ -59,5 +61,3 @@
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Shrey0)
-
-[Developed By Devanshu ♥️](http://gitread.me/#/)
