@@ -16,7 +16,7 @@
 <a href=http://www.wisebite.in > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 
 
-<a href=Anything > <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
+<a href=https://github.com/Shrey0 > <img align="left" src="https://images.app.goo.gl/bNWqhZMAXYhtWCa46"></img></a>
 
 #### Let's Connect<br>
 
