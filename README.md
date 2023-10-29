@@ -29,7 +29,11 @@
 #### <h4>About Myself: 
 Hey readers,
 
-I am a student developer experienced in C, C++, Java, JQuery and Python. I am learning to develop websities from <b>scratch</b>.
+Devoted software developer with a track record of creating unique products. I'm
+looking for a position where I can use my skills and abilities in the ever-evolving
+digital world and advance my career while being flexible, resourceful, and
+imaginative. I am a driven, enthusiastic computer engineer who is always willing to
+contribute and learn something new.
 </h4>
 
 # Education
