@@ -22,14 +22,14 @@
 
 #### <br>Name: Shrey H Jagad
 
-#### Position: Web Developer
+#### Position: Software Development Engineer I
 
 #### Email: jagadshrey001@gmail.com
 
 #### <h4>About Myself: 
 Hey readers,
 
-Devoted software developer with a track record of creating unique products. I'm
+I am a devoted software developer with a track record of creating unique products. I'm
 looking for a position where I can use my skills and abilities in the ever-evolving
 digital world and advance my career while being flexible, resourceful, and
 imaginative. I am a driven, enthusiastic computer engineer who is always willing to
